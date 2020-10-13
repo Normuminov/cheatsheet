@@ -1,0 +1,20 @@
+		# Git cheatsheet
+
+Command	Description				Example
+
+status	show the working tree status		git status
+
+add	track files and changes in Git		git add index.html
+commit	save files in Git			git commit
+	-m "comment" - message
+
+push	upload Git commits to GitHub
+pull	download Git commits from GitHub to 
+	local machine
+
+clone	bring repo from GitHub, to the local	git clone https://github.com/normuminov/demo
+	machine
+	
+/////////////////////////////////////////////////////////////
+
+git remote add origin git@github.com:Normuminov/demo.git	adds remote repository
