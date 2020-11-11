@@ -21,7 +21,7 @@ _Italic text_
 ## Links
 ### _Inline link:_
 
-[Link](example.com)
+![Link](red-apple.jpg)
 
 ### _Reference link_:
 
@@ -33,9 +33,32 @@ _Italic text_
 
 ### Inline image
 
-![Screenshot](image.jpg)
+![Screenshot](yellow-apple.jpg)
 
 ### Reference image
 
-[Green apple][
+![Green apple][Green apple]
 
+[Green apple]: green-apple.jpg
+
+## Quote
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelosn Mandela
+
+## LIsts
+
+### Unordered list
+
+* Apple
+* Banana
+* Orange
+
+### Ordered list
+
+1. Wake up
+2. Wash your face
+3. Go to work
+
+### Nested list
+
+1. Maths
